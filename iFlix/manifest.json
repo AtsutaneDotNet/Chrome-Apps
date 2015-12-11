@@ -4,7 +4,7 @@
   "description": "Chrome shortcut for iFlix Web Player",
   "version": "1.0",
   "icons": {
-    "128": "iflix.png"
+    "128": "iFlix.png"
     },
     "app": {
       "urls": ["https://play.iflix.com/"],
