@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "iFlix",
+  "description": "Chrome shortcut for iFlix Web Player",
+  "version": "1.0",
+  "icons": {
+    "128": "iflix.png"
+    },
+    "app": {
+      "urls": ["https://play.iflix.com/"],
+      "launch": {
+        "web_url": "https://play.iflix.com/"
+      }
+    },
+    "permissions": ["unlimitedStorage","notifications"]
+}
