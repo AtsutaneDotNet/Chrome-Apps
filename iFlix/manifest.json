@@ -6,11 +6,11 @@
   "icons": {
     "128": "iFlix.png"
     },
-    "app": {
-      "urls": ["https://play.iflix.com/"],
-      "launch": {
-        "web_url": "https://play.iflix.com/"
-      }
-    },
-    "permissions": ["unlimitedStorage","notifications"]
+  "app": {
+    "urls": ["https://play.iflix.com/"],
+    "launch": {
+      "web_url": "https://play.iflix.com/"
+    }
+  },
+  "permissions": ["unlimitedStorage","notifications"]
 }

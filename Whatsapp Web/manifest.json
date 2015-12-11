@@ -6,11 +6,11 @@
   "icons": {
     "128": "WhatsApp.png"
     },
-    "app": {
-      "urls": ["https://web.whatsapp.com/"],
-      "launch": {
-        "web_url": "https://web.whatsapp.com/"
-      }
-    },
-    "permissions": ["unlimitedStorage","notifications"]
+  "app": {
+    "urls": ["https://web.whatsapp.com/"],
+    "launch": {
+      "web_url": "https://web.whatsapp.com/"
+    }
+  },
+  "permissions": ["unlimitedStorage","notifications"]
 }
