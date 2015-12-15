@@ -9,7 +9,8 @@
   "app": {
     "urls": ["https://play.iflix.com/"],
     "launch": {
-      "web_url": "https://play.iflix.com/"
+      "web_url": "https://play.iflix.com/",
+      "container": "panel"
     }
   },
   "permissions": ["unlimitedStorage","notifications"]

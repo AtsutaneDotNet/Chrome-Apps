@@ -9,7 +9,8 @@
   "app": {
     "urls": ["https://web.whatsapp.com/"],
     "launch": {
-      "web_url": "https://web.whatsapp.com/"
+      "web_url": "https://web.whatsapp.com/",
+      "container": "panel"
     }
   },
   "permissions": ["unlimitedStorage","notifications"]
